@@ -1,4 +1,4 @@
-# Crop Recommendation System
+# Crop Recommendation System (Agro-Advisor)
 
 - Crop recommendation is a crucial aspect of precision agriculture, aiming to optimize crop selection based on various factors. The precision agriculture approach tailors recommendations to specific sites, ensuring optimal outcomes.
 - While advancements in "site-specific" methodologies have enhanced performance, ongoing monitoring remains crucial for system validation.
@@ -29,13 +29,13 @@ The dataset used for this application was constructed by augmenting existing dat
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/CodeWizardl/Agro-Advisor.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <project_directory>
+    cd Agro-Advisor
     ```
 
 3. Install the required dependencies:
@@ -71,9 +71,9 @@ The dataset used for this application was constructed by augmenting existing dat
 ## [Demo Images](#)
 
 ### _Before Prediction Output_
-
-
+![Main](https://github.com/CodeWizardl/Agro-Advisor/assets/142290678/beed11a0-2863-48c1-ae05-a5bd872766f5)
 ### _After Prediction Output_
+![Output](https://github.com/CodeWizardl/Agro-Advisor/assets/142290678/061551ce-d33a-47a0-9cfe-d71a36d3d082)
 
 Feel free to explore the application, input your data, and experience the benefits of precision agriculture in crop selection.
 
