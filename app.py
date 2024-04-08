@@ -3,13 +3,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import os
-import pickle
 import warnings
 
 st.set_page_config(page_title="Crop Recommender", page_icon="🌿", layout='centered', initial_sidebar_state="collapsed")
-def load_model(modelfile):
-	loaded_model = pickle.load(open(modelfile, 'rb'))
-	return loaded_model
 
 def main():
     # title
