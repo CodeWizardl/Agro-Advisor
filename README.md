@@ -4,8 +4,6 @@
 - While advancements in "site-specific" methodologies have enhanced performance, ongoing monitoring remains crucial for system validation.
 - Precision agriculture systems vary in efficacy, emphasizing the paramount importance of accurate and precise recommendations. In the agricultural context, errors in these recommendations can lead to substantial material and capital losses.
 
-![Crop Recommendation](https://www.opendei.eu/wp-content/uploads/2020/11/img-Yanewn0ORWCx4Jlm-w800.jpg)
-
 ## Application Overview
 
 This application serves as a valuable tool for farmers, aiding in the enhancement of agricultural productivity, prevention of soil degradation, reduction of chemical usage in crop production, and maximization of water resource efficiency.
